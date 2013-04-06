@@ -9,4 +9,6 @@ public class Foo {
    public void setFirstName(String firstName) {
       this.firstName = firstName;
    }
+  public void setlastname(String lastName) {
+      this.lastName = lastName;
 }
