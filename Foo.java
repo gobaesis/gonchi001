@@ -22,7 +22,8 @@ public class Foo {
    public void setSecondName(String secondName) {
       this.secondName = secondName;
    }
-}package util;
+}
+package util;
 public class Foo {
    private String firstName;
    private String lastName;
